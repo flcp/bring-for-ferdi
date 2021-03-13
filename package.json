@@ -1,0 +1,13 @@
+{
+  "id": "bring",
+  "name": "bring",
+  "version": "1.0.0",
+  "description": "Bring",
+  "main": "index.js",
+  "author": "Florian Pohl <florian_pohl@outlook.com/>",
+  "license": "MIT",
+  "repository": "https://github.com/flcp/bringForFerdi.git",
+  "config": {
+    "serviceURL": "https://web.getbring.com/"
+  }
+}
